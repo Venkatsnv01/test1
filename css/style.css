@@ -1,0 +1,13 @@
+:root {
+    --link-accent: #999;
+    --white: #fff;
+    --black: #000;
+}
+
+body {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--black);
+}
+
